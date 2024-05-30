@@ -1,4 +1,5 @@
 # SHLauncher
+# ! Перенос в ![этот репозиторий](https://github.com/GlotokTeam/SHLauncher-Modules/) !
 Лаунчер Minecraft для начинающих проектов без серверной стороны лаунчеров
 
 ### Лаунчер
